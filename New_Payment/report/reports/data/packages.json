@@ -1,0 +1,77 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_login_cases",
+    "children" : [ {
+      "name" : "test_login_success",
+      "uid" : "56024af1526f84c",
+      "parentUid" : "f7019aaec3137fe047e0748ac62a607b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642500815878,
+        "stop" : 1642500816241,
+        "duration" : 363
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_login_useraccount",
+      "uid" : "af84eb3c31b0a50e",
+      "parentUid" : "f7019aaec3137fe047e0748ac62a607b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642500816246,
+        "stop" : 1642500816330,
+        "duration" : 84
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_login_password",
+      "uid" : "a957d48dcf3f4328",
+      "parentUid" : "f7019aaec3137fe047e0748ac62a607b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642500816335,
+        "stop" : 1642500816644,
+        "duration" : 309
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_login_captcha",
+      "uid" : "e652f971869257b0",
+      "parentUid" : "f7019aaec3137fe047e0748ac62a607b",
+      "status" : "failed",
+      "time" : {
+        "start" : 1642500816650,
+        "stop" : 1642500816705,
+        "duration" : 55
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f7019aaec3137fe047e0748ac62a607b"
+  } ]
+}

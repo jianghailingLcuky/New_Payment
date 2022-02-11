@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jan 18 18:13:36 CST 2022","Tue Jan 18 18:13:36 CST 2022","309","","test_login_cases","TestLogin","","","test_login_password",""
+"passed","Tue Jan 18 18:13:35 CST 2022","Tue Jan 18 18:13:36 CST 2022","363","","test_login_cases","TestLogin","","","test_login_success",""
+"failed","Tue Jan 18 18:13:36 CST 2022","Tue Jan 18 18:13:36 CST 2022","55","","test_login_cases","TestLogin","","","test_login_captcha",""
+"passed","Tue Jan 18 18:13:36 CST 2022","Tue Jan 18 18:13:36 CST 2022","84","","test_login_cases","TestLogin","","","test_login_useraccount",""

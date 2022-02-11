@@ -1,0 +1,93 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "登录测试",
+    "children" : [ {
+      "name" : "登录测试1-登录成功",
+      "children" : [ {
+        "name" : "test_login_success",
+        "uid" : "56024af1526f84c",
+        "parentUid" : "6266c2ebc841c523ab4b2be0979c3561",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642500815878,
+          "stop" : 1642500816241,
+          "duration" : 363
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6266c2ebc841c523ab4b2be0979c3561"
+    }, {
+      "name" : "登录测试2-账户错误",
+      "children" : [ {
+        "name" : "test_login_useraccount",
+        "uid" : "af84eb3c31b0a50e",
+        "parentUid" : "ff522bdf1d8cd4a5ade7109056e7e4ee",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642500816246,
+          "stop" : 1642500816330,
+          "duration" : 84
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ff522bdf1d8cd4a5ade7109056e7e4ee"
+    }, {
+      "name" : "登录测试3-密码错误",
+      "children" : [ {
+        "name" : "test_login_password",
+        "uid" : "a957d48dcf3f4328",
+        "parentUid" : "fe1a46615e200fa0ec414aabb328a698",
+        "status" : "passed",
+        "time" : {
+          "start" : 1642500816335,
+          "stop" : 1642500816644,
+          "duration" : 309
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fe1a46615e200fa0ec414aabb328a698"
+    }, {
+      "name" : "登录测试4-验证码错误",
+      "children" : [ {
+        "name" : "test_login_captcha",
+        "uid" : "e652f971869257b0",
+        "parentUid" : "7f973aebf7bb82dd7cdd88bb33ef76a4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1642500816650,
+          "stop" : 1642500816705,
+          "duration" : 55
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7f973aebf7bb82dd7cdd88bb33ef76a4"
+    } ],
+    "uid" : "125e6bc612e07176324ee8ccc5907252"
+  } ]
+}

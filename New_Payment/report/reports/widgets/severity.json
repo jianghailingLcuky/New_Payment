@@ -1,0 +1,41 @@
+[ {
+  "uid" : "a957d48dcf3f4328",
+  "name" : "test_login_password",
+  "time" : {
+    "start" : 1642500816335,
+    "stop" : 1642500816644,
+    "duration" : 309
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af84eb3c31b0a50e",
+  "name" : "test_login_useraccount",
+  "time" : {
+    "start" : 1642500816246,
+    "stop" : 1642500816330,
+    "duration" : 84
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e652f971869257b0",
+  "name" : "test_login_captcha",
+  "time" : {
+    "start" : 1642500816650,
+    "stop" : 1642500816705,
+    "duration" : 55
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "56024af1526f84c",
+  "name" : "test_login_success",
+  "time" : {
+    "start" : 1642500815878,
+    "stop" : 1642500816241,
+    "duration" : 363
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

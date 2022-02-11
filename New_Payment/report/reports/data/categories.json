@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 'AC_1005' == 'AC_1004'\n  - AC_1004\n  ?       ^\n  + AC_1005\n  ?       ^",
+      "children" : [ {
+        "name" : "test_login_captcha",
+        "uid" : "e652f971869257b0",
+        "parentUid" : "74998326631efca0b28dc27cda632a0f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1642500816650,
+          "stop" : 1642500816705,
+          "duration" : 55
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "74998326631efca0b28dc27cda632a0f"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

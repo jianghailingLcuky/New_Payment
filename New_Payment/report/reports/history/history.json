@@ -1,0 +1,79 @@
+{
+  "56cd2a9a2379d33d32f50f13dcd79681" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a957d48dcf3f4328",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642500816335,
+        "stop" : 1642500816644,
+        "duration" : 309
+      }
+    } ]
+  },
+  "ddd34bfd96738d7ff331a4d6e2a38fd1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "af84eb3c31b0a50e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642500816246,
+        "stop" : 1642500816330,
+        "duration" : 84
+      }
+    } ]
+  },
+  "dbdf74e5c64a931ee2f517e61f5f7555" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e652f971869257b0",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 'AC_1005' == 'AC_1004'\n  - AC_1004\n  ?       ^\n  + AC_1005\n  ?       ^",
+      "time" : {
+        "start" : 1642500816650,
+        "stop" : 1642500816705,
+        "duration" : 55
+      }
+    } ]
+  },
+  "aed44e9915d7624bdec5a69f318d1e0d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "56024af1526f84c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642500815878,
+        "stop" : 1642500816241,
+        "duration" : 363
+      }
+    } ]
+  }
+}
